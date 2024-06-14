@@ -44,7 +44,7 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 <span style="font-size: 1.5em;">Contact</span>
 Siddharth Babel - siddharthbabel082@example.com
 
-Project Link: https://github.com/rajuutedd/TODOAPP
+Project Link: https://rajuutedd.github.io/TODOAPP/
 
 
 
