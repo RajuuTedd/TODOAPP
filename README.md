@@ -37,7 +37,7 @@ License
 Distributed under the MIT License. See LICENSE.txt for more information.
 
 Contact
-Sidharth Babel email- siddharthbabel082@example.com
+Siddharth Babel email- siddharthbabel082@example.com
 
 Project Link: https://github.com/rajuutedd/TODOAPP
 
